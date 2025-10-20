@@ -1,10 +1,14 @@
 <p><a target="_blank" href="https://app.eraser.io/workspace/nTub7lm1fB4TLlsFpql0" id="edit-in-eraser-github-link"><img alt="Edit in Eraser" src="https://firebasestorage.googleapis.com/v0/b/second-petal-295822.appspot.com/o/images%2Fgithub%2FOpen%20in%20Eraser.svg?alt=media&amp;token=968381c8-a7e7-472a-8ed6-4a6626da5501"></a></p>
 
+
+
 # C4 Architecture Diagrams - Our World in Data Platform
+![Figure 1](/.eraser/nTub7lm1fB4TLlsFpql0___skhqbyhYlBX0xs2EX2FVxLhSbiB3___---figure---HoejLG4EvJDvlSb4TXrTE---figure---me2ubT6UNVGLy_9lthvVbQ.png "Figure 1")
+
 ## System Context Diagram - OWID Platform
 This diagram shows the OWID platform and its relationships with people and external systems.
 
-
+[﻿Demo cloud diagram](https://app.eraser.io/workspace/sirBEZn7DRXwEkmGU253) 
 
 ```
 Git users [icon: users]
@@ -82,7 +86,8 @@ UpdateLayoutConfig($c4ShapeInRow="3", $c4BoundaryInRow="1")
 <!-- eraser-additional-content -->
 ## Diagrams
 <!-- eraser-additional-files -->
-<a href="/c4-context-diagram-cloud-architecture-1.eraserdiagram" data-element-id="XL1k9YKWD7afWLJk_YC74"><img src="/.eraser/nTub7lm1fB4TLlsFpql0___skhqbyhYlBX0xs2EX2FVxLhSbiB3___---diagram----f96fb10d4a22d5c52b28d93e83da0b20.png" alt="" data-element-id="XL1k9YKWD7afWLJk_YC74" /></a>
+<a href="/c4-context-diagram-entity-relationship-1.eraserdiagram" data-element-id="vc7gFjBMM42vEU6Kk62fM"><img src="/.eraser/nTub7lm1fB4TLlsFpql0___skhqbyhYlBX0xs2EX2FVxLhSbiB3___---diagram----19ab055a129fc094491a5695c63657a0.png" alt="" data-element-id="vc7gFjBMM42vEU6Kk62fM" /></a>
+<a href="/c4-context-diagram-cloud-architecture-2.eraserdiagram" data-element-id="XL1k9YKWD7afWLJk_YC74"><img src="/.eraser/nTub7lm1fB4TLlsFpql0___skhqbyhYlBX0xs2EX2FVxLhSbiB3___---diagram----f96fb10d4a22d5c52b28d93e83da0b20.png" alt="" data-element-id="XL1k9YKWD7afWLJk_YC74" /></a>
 <!-- end-eraser-additional-files -->
 <!-- end-eraser-additional-content -->
 <!--- Eraser file: https://app.eraser.io/workspace/nTub7lm1fB4TLlsFpql0 --->
