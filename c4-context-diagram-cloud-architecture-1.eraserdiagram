@@ -1,0 +1,23 @@
+cloud-architecture-diagram
+
+Git users [icon: users]
+Third-party Git repository [icon: git]
+
+AWS Cloud [icon: aws] {
+  Region [icon: flag] {
+    Amazon API Gateway [icon: aws-api-gateway]
+    VPC [icon: aws-vpc] {
+      Private subnet [icon: aws-private-subnet] {
+        Lambda function [icon: aws-lambda]
+        AWS CodeBuild [icon: aws-codebuild]
+      }
+    }
+    Amazon S3 SSH key bucket [icon: aws-s3]
+    AWS KMS key [icon: key]
+    Amazon S3 output bucket [icon: aws-s3]
+  }
+}
+
+Git users > Third-party Git repository > Amazon API Gateway > Lambda function > AWS CodeBuild > AWS KMS key
+AWS CodeBuild > Third-party Git repository
+AWS CodeBuild > Amazon S3 output bucket, Amazon S3 SSH key bucket
